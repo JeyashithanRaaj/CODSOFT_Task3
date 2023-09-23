@@ -49,13 +49,13 @@ git clone https://github.com/JeyashithanRaaj/CODSOFT_Task3.git
 2. Navigate to the project directory.
 
 ```bash
-cd password-generator-app
+cd PwdGen
 ```
 
 3. Run the application.
 
 ```bash
-python Pwdgen.py
+python PwdGen.py
 ```
 
 ## Usage
